@@ -1,3 +1,4 @@
 #!/bin/sh
 cru a 1 "0 * * * * /tmp/mnt/sdb3/home/ddns.sh"
+cru a 2 "0 * * * * /tmp/mnt/sdb3/home/check_transmission.sh"
 
